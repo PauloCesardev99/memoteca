@@ -29,6 +29,7 @@ yarn-error.log
 .history/*
 
 # Miscellaneous
+/backend/nodules_modules
 /.angular/cache
 .sass-cache/
 /connect.lock
